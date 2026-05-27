@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvonnect",
+        "uuid": 7533600,
+        "checksum": "7ovk06"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
